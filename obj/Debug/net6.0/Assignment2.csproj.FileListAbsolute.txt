@@ -1,0 +1,6 @@
+C:\Users\arsh_\source\repos\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\arsh_\source\repos\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsh_\source\repos\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\arsh_\source\repos\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\arsh_\source\repos\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\arsh_\source\repos\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.MvcApplicationPartsAssemblyInfo.cache
